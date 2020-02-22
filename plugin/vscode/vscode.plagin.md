@@ -3,10 +3,10 @@ Autoprefixer                === Autoprefixer                                    
 Beautify                    === Beautify                                            ---
 Bracket Pair Colorizer      === меняет цвет {{{}}}                                  +++
 Comment Divider             === создание комментариев в клик                        +++
-Material Theme              === Theme                                               ???
+Material Theme              === Material Theme  high contrast                       +++ 
 GitLens                     === для роботы с git                                    +++
 Live Server                 === включить порт                                       +++
-Material Icon Theme         === Icon Theme                                          ???
+Material Icon Theme         === Icon Theme                                          +++
 Path Intellisense           === авто запуск пути к файлу                            ,,,
 Ruby                        === Ruby                                                ...
 Ruby and Rails Snippets     === поддержка синтаксиса рельс                          ...
@@ -20,4 +20,4 @@ Prettier - Code formatter   === улучшений Beautify для роботы 
 /////////////////////////////////////////////////
 пробный
 
-Better Comments
+Better Comments хрень

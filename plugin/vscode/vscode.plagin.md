@@ -19,6 +19,7 @@ Prettier - Code formatter   === улучшений Beautify для роботы 
 Code Spell Checker          === проверка граматики анг                              +++
 Auto Import                 === добовляет импорт js                                 ???
 DotENV                      === env синтаксис                                       +++
+PHP Intelephense            === php синтаксис                                       +++
 /////////////////////////////////////////////////
 пробный
 
